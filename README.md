@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React, NodeJs
 
 <div style="display: flex;
-      background-color: red;
+      justify-content: row !important;
            "  >
 <div">
   <a href="https://github.com/vitorsantos100798">
