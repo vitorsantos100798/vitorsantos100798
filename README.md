@@ -3,7 +3,9 @@
 - 🔭 At the moment I'm working on Data Sales Technology For Retail Marketing development
 - 🌱 I’m currently learning React, NodeJs
 
-<div style="display: flex"  >
+<div style="display: flex;
+      flex-direction: collum;
+           "  >
 <div">
   <a href="https://github.com/vitorsantos100798">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsantos100798&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
