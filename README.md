@@ -1,6 +1,4 @@
 ### Hello I'm Vitor Santos 👋
-
-- 🔭 At the moment I'm working on Data Sales Technology For Retail Marketing development
 - 🌱 I’m currently learning React, NodeJs
 
 <div style="display: flex;
