@@ -1,5 +1,7 @@
 ### Hello I'm Vitor Santos 👋
-- 🌱 I’m currently learning React, NodeJs
+- 👨‍💻 Fullstack Developer
+- ⚛️ React, React-Native
+- 📦 Nodejs
 
 <div style="display: flex;
       justify-content: row !important;
