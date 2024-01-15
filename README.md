@@ -1,5 +1,5 @@
-### Hello I'm Vitor Santos 👋
-- 👨‍💻 Fullstack Developer
+### Olá! Eu sou o Vitor Santos. 👋
+- 👨‍💻 Desenvolvedor Fullstack 
 - ⚛️ React, React-Native
 - 📦 Nodejs
 
